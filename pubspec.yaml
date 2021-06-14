@@ -1,6 +1,6 @@
 name: refreshable_reorderable_list
 description: A fork of ReorderableList which adds the physics property needed for RefreshIndicator to work
-version: 0.0.1
+version: 0.0.2
 homepage: "https://github.com/dave/refreshable_reorderable_list"
 
 environment:
